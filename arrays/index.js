@@ -12,6 +12,6 @@ console.log(arraySomada)
 
 //EXEMPLO 2
 
-const arraySomada2 = arrayNums.map(num => num * 10)
+const arraySomada2 = arrayNums.map(num => num * 10) // ok
 
 console.log(arraySomada2)
